@@ -1,0 +1,5 @@
+{
+  "name": "Quotation Generator",
+  "description": "An application to automatically generate professional quotations in A4 format. Users can input company details, client information, line items, and download the final quotation as a PDF.",
+  "requestFramePermissions": []
+}
